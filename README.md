@@ -1,7 +1,7 @@
 # readMe Generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  The project was to be able to develop a readMe using 'node index.js' in the terminal. When ' node index.js' is typed into the terminal, the user will be prompted with a series of questions that will generate a readMe!
+  TheThe project was to be able to develop a readMe using 'node index.js' in the terminal. When ' node index.js' is typed into the terminal, the user will be prompted with a series of questions that will generate a readMe!
   ## Table of Contents 
   * [Installation](#installation)
   * [Usage](#usage)
@@ -14,15 +14,15 @@
   ## Installation
   To install necessary dependencies, run the following command:
   ```
-  npm i
+  Download using github and run the inquirer package
   ```
   ## Usage
-  
+  Type 'node index.js' into the terminal and answer the questions prompted!
   ## License
     This project is licensed under the MIT license.
     
   ## Contributing
-  
+  KalvinN361
   ## Tests
   To run tests, run the following command:
   ```

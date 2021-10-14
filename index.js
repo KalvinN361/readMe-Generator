@@ -23,7 +23,7 @@ const questions = [
 {
     type: 'input',
     name: 'description',
-    message: 'Please write a short description of your project',
+    message: 'Please write a description of your project',
 },
 {
     type: 'list',
@@ -34,24 +34,24 @@ const questions = [
 {
     type: 'input',
     name: 'installation',
-    message: 'What command should be run to install dependencies?',
-    default: 'npm i',
+    message: 'How to install the project?',
+    default: '',
 },
 {
     type: 'input',
     name: 'test',
-    message: 'What command should be run to run tests?',
+    message: 'How to test the project?',
     default: 'npm test',
 },
 {
     type: 'input',
     name: 'usage',
-    message: 'What does the user need to know about using the repo?',
+    message: 'How do you use the repo and project?',
 },
 {
     type: 'input',
     name: 'contributing',
-    message: 'What does the user need to know about contributing to the repo?',
+    message: 'Please include all contributers!!',
 },
 ];
 
