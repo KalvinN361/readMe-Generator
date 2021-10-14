@@ -37,4 +37,4 @@
   <img src="readMe-Generator.gif"/>
   ![demo](readMeGenerator.gif)
   ![Professional Readme Generator Demo](readMe Generator.gif)
-  ![](readMe-Generator.gif)
+  ![](readMe Generator.gif)
