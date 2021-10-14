@@ -32,5 +32,5 @@
   If you have any questions about the repo, open an issue or contact me directly at Kalvin.win59@gmail.com. You can find more of my work at [KalvinN361](https://github.com/KalvinN361/).
   
   ## Visual Presentation
-  ![Readme Generator Demo](video.webm)
+  ![Readme Generator Demo](https://watch.screencastify.com/v/Qivhq2m2lDHJYhSnZKd1)](https://watch.screencastify.com/v/Qivhq2m2lDHJYhSnZKd1)
   
