@@ -34,4 +34,5 @@
   ## Visual Presentation
   ![readMe Generator Demo](readMe-Generator.gif) 
   !(image)[readMe Generator.gif]
+  <img src="readMe-Generator.gif"/>
   
