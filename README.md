@@ -36,3 +36,4 @@
   !(image)[readMe Generator.gif]
   <img src="readMe-Generator.gif"/>
   ![demo](readMeGenerator.gif)
+  ![Professional Readme Generator Demo](readMe Generator.gif)
