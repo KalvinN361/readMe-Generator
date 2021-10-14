@@ -1,7 +1,7 @@
-# bla
+# readMe Generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  bla
+  The project was to be able to develop a readMe using 'node index.js' in the terminal. When ' node index.js' is typed into the terminal, the user will be prompted with a series of questions that will generate a readMe!
   ## Table of Contents 
   * [Installation](#installation)
   * [Usage](#usage)
@@ -29,5 +29,5 @@
   npm test
   ```
   ## Questions
-  If you have any questions about the repo, open an issue or contact me directly at kalvin.win59@gmail.com. You can find more of my work at [kalvin nguyen](https://github.com/kalvin nguyen/).
+  If you have any questions about the repo, open an issue or contact me directly at Kalvin.win59@gmail.com. You can find more of my work at [KalvinN361](https://github.com/KalvinN361/).
   
